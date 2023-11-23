@@ -1,15 +1,17 @@
 name: Audrow Nash Podcast
 transcript_site_url: https://audrow-nash-podcast.github.io/transcripts
 links:
-- text: Discuss on X
+- text: Watch and discuss on X
   href: https://www.x.com/audrow
-- text: Full transcripts
-  href: https://audrow-nash-podcast.github.io/transcripts
-- text: Listen on Spotify
+- text: Watch or listen on Spotify
   href: https://open.spotify.com/show/74jWpWiLwsasY2QHtDcl8I
 - text: Listen on Apple Podcasts
   href: https://podcasts.apple.com/us/podcast/audrow-nash-podcast/id1716486786
 - text: Watch on YouTube
   href: https://www.youtube.com/@audrow
+- text: Main podcast site
+  href: https://podcasters.spotify.com/pod/show/audrow1
 - text: RSS Feed
   href: https://anchor.fm/s/e2666f60/podcast/rss
+- text: Full transcripts
+  href: https://audrow-nash-podcast.github.io/transcripts
