@@ -1,0 +1,23 @@
+title: "Rethinking Robotics: Electric Sheep's Journey to Safer, Smarter Machines"
+number: 1
+description: |-
+  How would you make ChatGPT but for the physical world? That's what Electric Sheep Robotics is working on. It's an audacious goal, and to accomplish it, they're doing many things fundamentally different than most robotics companies. 
+
+  You'll enjoy this interview if you're interested in how AI and robotics fit together in a real application and if you want to see a new robotics business model that will probably become very popular.
+
+  Nag Murty is the Founder and CEO of Electric Sheep, and Mike Laskey is the VP of Autonomy at Electric Sheep.
+links:
+- text: Electric Sheep's Website
+  href: https://sheeprobotics.ai/
+- text: Electric Sheep's X
+  href: https://twitter.com/sheeprobotics
+- text: Electric Sheep's LinkedIn
+  href: https://www.company.com/
+guests:
+- name: Nag Murty
+  x_handle: MurtyNag
+- name: Mike Laskey
+  x_handle: null
+organization:
+  name: Electric Sheep Robotics
+  x_handle: sheeprobotics
