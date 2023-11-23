@@ -12,7 +12,7 @@ Rethinking Robotics: Electric Sheep's Journey to Safer, Smarter Machines
 
 Episode slug:
 ```
-1-rethinking-robotics-electric-sheeps-journey-to-safer-smarter-machines
+1-rethinking-robotics-electric-sheep-s-journey-to-safer-smarter-machines
 ```
 
 ### Spotify
@@ -24,7 +24,7 @@ Rethinking Robotics: Electric Sheep's Journey to Safer, Smarter Machines
 
 Content:
 ```html
-How would you make ChatGPT but for the physical world? That's what Electric Sheep Robotics is working on. It's an audacious goal, and to accomplish it, they're doing many things fundamentally different than most robotics companies. <br/><br/>You'll enjoy this interview if you're interested in how AI and robotics fit together in a real application and if you want to see a new robotics business model that will probably become very popular.<br/><br/>Nag Murty is the Founder and CEO of Electric Sheep, and Mike Laskey is the VP of Autonomy at Electric Sheep.<br/><br/>EPISODE LINKS<br/>- Full transcript: <a href="https://audrow-nash-podcast.github.io/transcripts/1-rethinking-robotics-electric-sheep-s-journey-to-safer-smarter-machines.html">https://audrow-nash-podcast.github.io/transcripts/1-rethinking-robotics-electric-sheep-s-journey-to-safer-smarter-machines.html</a><br/>- Electric Sheep&#x27;s Website: <a href="https://sheeprobotics.ai/">https://sheeprobotics.ai/</a><br/>- Electric Sheep&#x27;s X: <a href="https://twitter.com/sheeprobotics">https://twitter.com/sheeprobotics</a><br/>- Electric Sheep&#x27;s LinkedIn: <a href="https://www.linkedin.com/company/electric-sheep-robotics/">https://www.linkedin.com/company/electric-sheep-robotics/</a><br/><br/>PODCAST LINKS<br/>- Discuss on X: <a href="https://www.x.com/audrow">https://www.x.com/audrow</a><br/>- Full transcripts: <a href="https://audrow-nash-podcast.github.io/transcripts">https://audrow-nash-podcast.github.io/transcripts</a><br/>- Listen on Spotify: <a href="https://open.spotify.com/show/74jWpWiLwsasY2QHtDcl8I">https://open.spotify.com/show/74jWpWiLwsasY2QHtDcl8I</a><br/>- Listen on Apple Podcasts: <a href="https://podcasts.apple.com/us/podcast/audrow-nash-podcast/id1716486786">https://podcasts.apple.com/us/podcast/audrow-nash-podcast/id1716486786</a><br/>- Watch on YouTube: <a href="https://www.youtube.com/@audrow">https://www.youtube.com/@audrow</a><br/>- RSS Feed: <a href="https://anchor.fm/s/e2666f60/podcast/rss">https://anchor.fm/s/e2666f60/podcast/rss</a><br/><br/>OUTLINE<br/>(00:00:00) - Start<br/>(00:01:32) - Introducing Nag + Mike + Electric Sheep<br/>(00:02:51) - Large world models<br/>(00:06:24) - Learning physics<br/>(00:10:08) - Robot sensors<br/>(00:17:57) - Introducing ES1 as CatGPT<br/>(00:20:17) - ES1’s input / output<br/>(00:21:52) - End-to-end learning for robots<br/>(00:26:51) - Getting data<br/>(00:27:47) - Electric Sheep’s background<br/>(00:30:49) - Business philosophy at Electric Sheep<br/>(00:33:19) - Sim-to-real + long tail events<br/>(00:36:38) - ChatGPT<br/>(00:42:01) - Building for safety<br/>(00:49:25) - Safety with AI<br/>(00:54:23) - Apple’s surprise new features<br/>(00:58:06) - Generalizing learnings for other tasks, like snowplowing<br/>(01:03:35) - AI architecture<br/>(01:07:09) - Training to mow straight lines<br/>(01:11:19) - Why not Robot-as-a-Service?<br/>(01:17:08) - Boring businesses + robots + AI<br/>(01:24:34) - How do we build the data model?<br/>(01:29:07) - Getting into dexterous tasks<br/>(01:30:28) - Building a monopoly<br/>(01:31:23) - Advice for our new world of AI<br/>(01:40:37) - Links and contact info<br/>(01:41:33) - Hanging out
+How would you make ChatGPT but for the physical world? That's what Electric Sheep Robotics is working on. It's an audacious goal, and to accomplish it, they're doing many things fundamentally different than most robotics companies. <br/><br/>You'll enjoy this interview if you're interested in how AI and robotics fit together in a real application and if you want to see a new robotics business model that will probably become very popular.<br/><br/>Nag Murty is the Founder and CEO of Electric Sheep, and Mike Laskey is the VP of Autonomy at Electric Sheep.<br/><br/>EPISODE LINKS<br/>- Full transcript: <a href="https://audrow-nash-podcast.github.io/transcripts/1-rethinking-robotics-electric-sheep-s-journey-to-safer-smarter-machines.html">https://audrow-nash-podcast.github.io/transcripts/1-rethinking-robotics-electric-sheep-s-journey-to-safer-smarter-machines.html</a><br/>- Electric Sheep&#x27;s Website: <a href="https://sheeprobotics.ai/">https://sheeprobotics.ai/</a><br/>- Electric Sheep&#x27;s X: <a href="https://twitter.com/sheeprobotics">https://twitter.com/sheeprobotics</a><br/>- Electric Sheep&#x27;s LinkedIn: <a href="https://www.linkedin.com/company/electric-sheep-robotics/">https://www.linkedin.com/company/electric-sheep-robotics/</a><br/><br/>PODCAST LINKS<br/>- Watch and discuss on X: <a href="https://www.x.com/audrow">https://www.x.com/audrow</a><br/>- Watch or listen on Spotify: <a href="https://open.spotify.com/show/74jWpWiLwsasY2QHtDcl8I">https://open.spotify.com/show/74jWpWiLwsasY2QHtDcl8I</a><br/>- Listen on Apple Podcasts: <a href="https://podcasts.apple.com/us/podcast/audrow-nash-podcast/id1716486786">https://podcasts.apple.com/us/podcast/audrow-nash-podcast/id1716486786</a><br/>- Watch on YouTube: <a href="https://www.youtube.com/@audrow">https://www.youtube.com/@audrow</a><br/>- Main podcast site: <a href="https://podcasters.spotify.com/pod/show/audrow1">https://podcasters.spotify.com/pod/show/audrow1</a><br/>- RSS Feed: <a href="https://anchor.fm/s/e2666f60/podcast/rss">https://anchor.fm/s/e2666f60/podcast/rss</a><br/>- Full transcripts: <a href="https://audrow-nash-podcast.github.io/transcripts">https://audrow-nash-podcast.github.io/transcripts</a><br/><br/>OUTLINE<br/>(00:00:00) - Start<br/>(00:01:32) - Introducing Nag + Mike + Electric Sheep<br/>(00:02:51) - Large world models<br/>(00:06:24) - Learning physics<br/>(00:10:08) - Robot sensors<br/>(00:17:57) - Introducing ES1 as CatGPT<br/>(00:20:17) - ES1’s input / output<br/>(00:21:52) - End-to-end learning for robots<br/>(00:26:51) - Getting data<br/>(00:27:47) - Electric Sheep’s background<br/>(00:30:49) - Business philosophy at Electric Sheep<br/>(00:33:19) - Sim-to-real + long tail events<br/>(00:36:38) - ChatGPT<br/>(00:42:01) - Building for safety<br/>(00:49:25) - Safety with AI<br/>(00:54:23) - Apple’s surprise new features<br/>(00:58:06) - Generalizing learnings for other tasks, like snowplowing<br/>(01:03:35) - AI architecture<br/>(01:07:09) - Training to mow straight lines<br/>(01:11:19) - Why not Robot-as-a-Service?<br/>(01:17:08) - Boring businesses + robots + AI<br/>(01:24:34) - How do we build the data model?<br/>(01:29:07) - Getting into dexterous tasks<br/>(01:30:28) - Building a monopoly<br/>(01:31:23) - Advice for our new world of AI<br/>(01:40:37) - Links and contact info<br/>(01:41:33) - Hanging out
 ```
 
 ### X
@@ -81,12 +81,13 @@ Episode links:
 - Electric Sheep's LinkedIn: https://www.linkedin.com/company/electric-sheep-robotics/
 
 Podcast links:
-- Discuss on X: https://www.x.com/audrow
-- Full transcripts: https://audrow-nash-podcast.github.io/transcripts
-- Listen on Spotify: https://open.spotify.com/show/74jWpWiLwsasY2QHtDcl8I
+- Watch and discuss on X: https://www.x.com/audrow
+- Watch or listen on Spotify: https://open.spotify.com/show/74jWpWiLwsasY2QHtDcl8I
 - Listen on Apple Podcasts: https://podcasts.apple.com/us/podcast/audrow-nash-podcast/id1716486786
 - Watch on YouTube: https://www.youtube.com/@audrow
+- Main podcast site: https://podcasters.spotify.com/pod/show/audrow1
 - RSS Feed: https://anchor.fm/s/e2666f60/podcast/rss
+- Full transcripts: https://audrow-nash-podcast.github.io/transcripts
 ```
 
 #### Clips on X
@@ -145,12 +146,13 @@ EPISODE LINKS
 - Electric Sheep's LinkedIn: https://www.linkedin.com/company/electric-sheep-robotics/
 
 PODCAST LINKS
-- Discuss on X: https://www.x.com/audrow
-- Full transcripts: https://audrow-nash-podcast.github.io/transcripts
-- Listen on Spotify: https://open.spotify.com/show/74jWpWiLwsasY2QHtDcl8I
+- Watch and discuss on X: https://www.x.com/audrow
+- Watch or listen on Spotify: https://open.spotify.com/show/74jWpWiLwsasY2QHtDcl8I
 - Listen on Apple Podcasts: https://podcasts.apple.com/us/podcast/audrow-nash-podcast/id1716486786
 - Watch on YouTube: https://www.youtube.com/@audrow
+- Main podcast site: https://podcasters.spotify.com/pod/show/audrow1
 - RSS Feed: https://anchor.fm/s/e2666f60/podcast/rss
+- Full transcripts: https://audrow-nash-podcast.github.io/transcripts
 
 OUTLINE
 - 00:00:00 - Start
