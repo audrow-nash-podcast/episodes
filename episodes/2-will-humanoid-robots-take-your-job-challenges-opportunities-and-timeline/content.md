@@ -181,7 +181,7 @@ Tweet 2:
 ```text
 Watch the full interview here 👇
 
-ADD X POST URL TO CONFIG
+https://twitter.com/audrow/status/1732409596327665866
 ```
 
 ### LinkedIn
@@ -194,8 +194,7 @@ Will Humanoid Robots Take Your Job? Challenges, Opportunities, and Timeline
 Interview with Melonee Wise from Agility Robotics.
 
 Watch and discuss on 𝕏:
-ADD X POST URL TO CONFIG
-
+https://twitter.com/audrow/status/1732409596327665866
 
 Watch on Youtube:
 https://youtu.be/-u-vtXm3rTI
@@ -212,8 +211,7 @@ https://podcasters.spotify.com/pod/show/audrow1/episodes/Will-Humanoid-Robots-Ta
 With Melonee Wise
 
 Watch and discuss on 𝕏:
-ADD X POST URL TO CONFIG
-
+https://twitter.com/audrow/status/1732409596327665866
 
 Watch on Youtube:
 https://youtu.be/-u-vtXm3rTI
