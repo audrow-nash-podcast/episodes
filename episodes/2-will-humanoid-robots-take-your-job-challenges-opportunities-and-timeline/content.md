@@ -200,7 +200,7 @@ Interview with Melonee Wise from Agility Robotics.
 Watch and discuss on 𝕏:
 https://twitter.com/audrow/status/1732409596327665866
 
-Watch on Youtube:
+Watch on YouTube:
 https://youtu.be/-u-vtXm3rTI
 
 Or listen on your favorite podcasting app.
@@ -217,7 +217,7 @@ With Melonee Wise
 Watch and discuss on 𝕏:
 https://twitter.com/audrow/status/1732409596327665866
 
-Watch on Youtube:
+Watch on YouTube:
 https://youtu.be/-u-vtXm3rTI
 
 Or listen on your favorite podcasting app.
