@@ -227,4 +227,7 @@ https://podcasters.spotify.com/pod/show/audrow1/episodes/Will-Humanoid-Robots-Ta
 X with block:
 ```
 With @meloneewise from @agilityrobotics
+
+You can find the full episode here:
+https://twitter.com/audrow/status/1732409596327665866
 ```
