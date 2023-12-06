@@ -8,8 +8,6 @@
 - [Spotify](#spotify)
 - [YouTube](#youtube)
 - [X](#x)
-  - [Main episode](#main-episode)
-  - [Clips on X](#clips-on-x)
 - [LinkedIn](#linkedin)
 - [Bulk clips](#bulk-clips)
 
@@ -114,8 +112,6 @@ OUTLINE
 
 ### X
 
-#### Main episode
-
 First Tweet:
 
 ```
@@ -124,33 +120,33 @@ Rethinking Robotics: Electric Sheep's Journey to Safer, Smarter Machines
 With @MurtyNag and Mike Laskey from @sheeprobotics.
 
 Time codes 👇
-(00:00:00) Start
-(00:01:32) Introducing Nag + Mike + Electric Sheep
-(00:02:51) Large world models
-(00:06:24) Learning physics
-(00:10:08) Robot sensors
-(00:17:57) Introducing ES1 as CatGPT
-(00:20:17) ES1’s input / output
-(00:21:52) End-to-end learning for robots
-(00:26:51) Getting data
-(00:27:47) Electric Sheep’s background
-(00:30:49) Business philosophy at Electric Sheep
-(00:33:19) Sim-to-real + long tail events
-(00:36:38) ChatGPT
-(00:42:01) Building for safety
-(00:49:25) Safety with AI
-(00:54:23) Apple’s surprise new features
-(00:58:06) Generalizing learnings for other tasks, like snowplowing
-(01:03:35) AI architecture
-(01:07:09) Training to mow straight lines
-(01:11:19) Why not Robot-as-a-Service?
-(01:17:08) Boring businesses + robots + AI
-(01:24:34) How do we build the data model?
-(01:29:07) Getting into dexterous tasks
-(01:30:28) Building a monopoly
-(01:31:23) Advice for our new world of AI
-(01:40:37) Links and contact info
-(01:41:33) Hanging out
+00:00:00 - Start
+00:01:32 - Introducing Nag + Mike + Electric Sheep
+00:02:51 - Large world models
+00:06:24 - Learning physics
+00:10:08 - Robot sensors
+00:17:57 - Introducing ES1 as CatGPT
+00:20:17 - ES1’s input / output
+00:21:52 - End-to-end learning for robots
+00:26:51 - Getting data
+00:27:47 - Electric Sheep’s background
+00:30:49 - Business philosophy at Electric Sheep
+00:33:19 - Sim-to-real + long tail events
+00:36:38 - ChatGPT
+00:42:01 - Building for safety
+00:49:25 - Safety with AI
+00:54:23 - Apple’s surprise new features
+00:58:06 - Generalizing learnings for other tasks, like snowplowing
+01:03:35 - AI architecture
+01:07:09 - Training to mow straight lines
+01:11:19 - Why not Robot-as-a-Service?
+01:17:08 - Boring businesses + robots + AI
+01:24:34 - How do we build the data model?
+01:29:07 - Getting into dexterous tasks
+01:30:28 - Building a monopoly
+01:31:23 - Advice for our new world of AI
+01:40:37 - Links and contact info
+01:41:33 - Hanging out
 ```
 
 Second tweet with details:
@@ -175,30 +171,13 @@ Podcast links:
 - Podcast Github: https://github.com/audrow-nash-podcast
 ```
 
-#### Clips on X
-
-Tweet 1:
-
-```text
-HOOK
-
-With @MurtyNag and Mike Laskey from @sheeprobotics.
-```
-
-Tweet 2:
-
-```text
-Watch the full interview here 👇
-
-https://twitter.com/audrow/status/1724418564935897492
-```
 
 ### LinkedIn
 
 ```text
 🚨 New episode 🚨
 
-How would you make ChatGPT but for the physical world? That's what Electric Sheep Robotics is working on. It's an audacious goal, and to accomplish it, they're doing many things fundamentally different than most robotics companies.
+How would you make ChatGPT but for the physical world? That's what Electric Sheep Robotics is working on. It's an audacious goal, and to accomplish it, they're doing many things fundamentally different than most robotics companies. 
 
 You'll enjoy this interview if you're interested in how AI and robotics fit together in a real application and if you want to see a new robotics business model that will probably become very popular.
 

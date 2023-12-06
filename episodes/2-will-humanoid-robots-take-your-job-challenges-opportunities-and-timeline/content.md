@@ -5,10 +5,7 @@
 - [General](#general)
 - [Spotify](#spotify)
 - [YouTube](#youtube)
-    - [Main episode](#main-episode)
 - [X](#x)
-    - [Main episode](#main-episode)
-    - [Clips on X](#clips-on-x)
 - [LinkedIn](#linkedin)
 - [Bulk clips](#bulk-clips)
 
@@ -108,8 +105,6 @@ OUTLINE
 
 ### X
 
-#### Main episode
-
 First Tweet:
 
 ```
@@ -118,29 +113,29 @@ Will Humanoid Robots Take Your Job? Challenges, Opportunities, and Timeline
 With @meloneewise from @agilityrobotics.
 
 Time codes 👇
-(00:00:00) Start
-(00:00:31) Episode introduction
-(00:01:42) Introducing Melonee + Agility Robotics
-(00:03:44) Introducing Digit
-(00:05:17) How’d Melonee to join Agility?
-(00:09:13) Pivoting from curb to doorstep delivery
-(00:11:34) Why Humanoids?
-(00:16:18) How does Digit compare to people?
-(00:19:01) Ethics of humanoid robots
-(00:25:09) LLMs automation and white collar jobs
-(00:37:35) Robot factory + suppliers in North America
-(00:42:53) Reestablishing a trade class in the US
-(00:53:17) Digit’s hands
-(00:55:55) Thoughts on humanoids
-(01:01:45) Timeline for humanoids
-(01:05:56) What if you had your own ChatGPT?
-(01:08:35) Best time to be in robotics or worst time?
-(01:10:07) Advice for new roboticists
-(01:13:10) Amazon trials
-(01:15:27) Agility Robotics in the next 2-5 years
-(01:18:42) Humanoids and spreadsheets? Is this the tipping point?
-(01:21:20) What are you excited about in robotics now?
-(01:23:42) Wrapping up
+00:00:00 - Start
+00:00:31 - Episode introduction
+00:01:42 - Introducing Melonee + Agility Robotics
+00:03:44 - Introducing Digit
+00:05:17 - How’d Melonee to join Agility?
+00:09:13 - Pivoting from curb to doorstep delivery
+00:11:34 - Why Humanoids?
+00:16:18 - How does Digit compare to people?
+00:19:01 - Ethics of humanoid robots
+00:25:09 - LLMs automation and white collar jobs
+00:37:35 - Robot factory + suppliers in North America
+00:42:53 - Reestablishing a trade class in the US
+00:53:17 - Digit’s hands
+00:55:55 - Thoughts on humanoids
+01:01:45 - Timeline for humanoids
+01:05:56 - What if you had your own ChatGPT?
+01:08:35 - Best time to be in robotics or worst time?
+01:10:07 - Advice for new roboticists
+01:13:10 - Amazon trials
+01:15:27 - Agility Robotics in the next 2-5 years
+01:18:42 - Humanoids and spreadsheets? Is this the tipping point?
+01:21:20 - What are you excited about in robotics now?
+01:23:42 - Wrapping up
 ```
 
 Second tweet with details:
@@ -164,23 +159,6 @@ Podcast links:
 - Podcast Github: https://github.com/audrow-nash-podcast
 ```
 
-#### Clips on X
-
-Tweet 1:
-
-```text
-HOOK
-
-With @meloneewise from @agilityrobotics.
-```
-
-Tweet 2:
-
-```text
-Watch the full interview here 👇
-
-https://twitter.com/audrow/status/1732409596327665866
-```
 
 ### LinkedIn
 
