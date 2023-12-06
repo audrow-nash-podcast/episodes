@@ -6,11 +6,11 @@
 - [Spotify](#spotify)
 - [YouTube](#youtube)
     - [Main episode](#main-episode)
-    - [Clips on YouTube](#clips-on-youtube)
 - [X](#x)
     - [Main episode](#main-episode)
     - [Clips on X](#clips-on-x)
 - [LinkedIn](#linkedin)
+- [Bulk clips](#bulk-clips)
 
 ### General
 
@@ -47,8 +47,6 @@ Will humanoid robots and AI take your job? What are the ethics around this, and 
 ```
 
 ### YouTube
-
-#### Main episode
 
 Title:
 
@@ -106,26 +104,6 @@ OUTLINE
 - 01:18:42 - Humanoids and spreadsheets? Is this the tipping point?
 - 01:21:20 - What are you excited about in robotics now?
 - 01:23:42 - Wrapping up
-```
-
-#### Clips on YouTube
-
-```text
-Interview with Melonee Wise from Agility Robotics.
-
-Watch the full interview here 👇
-
-https://youtu.be/-u-vtXm3rTI
-
-PODCAST LINKS
-- Watch and discuss on 𝕏: https://www.x.com/audrow
-- Watch or listen on Spotify: https://open.spotify.com/show/74jWpWiLwsasY2QHtDcl8I
-- Listen on Apple Podcasts: https://podcasts.apple.com/us/podcast/audrow-nash-podcast/id1716486786
-- Watch on YouTube: https://www.youtube.com/@audrow
-- Main podcast site: https://podcasters.spotify.com/pod/show/audrow1
-- RSS Feed: https://anchor.fm/s/e2666f60/podcast/rss
-- Full transcripts: https://audrow-nash-podcast.github.io/transcripts
-- Podcast Github: https://github.com/audrow-nash-podcast
 ```
 
 ### X
@@ -211,14 +189,9 @@ ADD X POST URL TO CONFIG
 ```text
 🚨 New episode 🚨
 
-Interview with Melonee Wise from Agility Robotics.
 Will Humanoid Robots Take Your Job? Challenges, Opportunities, and Timeline
 
-Will humanoid robots and AI take your job? What are the ethics around this, and what are the opportunities?
-
-I talked with Agility Robotics' CTO, Melonee Wise, to get some perspective.
-
-You'll like this interview if you want to understand the bleeding edge of robotics and AI and how it will affect you.
+Interview with Melonee Wise from Agility Robotics.
 
 Watch and discuss on 𝕏:
 ADD X POST URL TO CONFIG
@@ -228,6 +201,25 @@ Watch on Youtube:
 https://youtu.be/-u-vtXm3rTI
 
 Or listen on your favorite podcasting app.
-ADD SPOTIFY_FOR_PODCASTERS URL TO CONFIG
+https://podcasters.spotify.com/pod/show/audrow1/episodes/Will-Humanoid-Robots-Take-Your-Job--Challenges--Opportunities--and-Timeline-e2crh40
+```
 
+## Bulk clips
+
+```
+🔊 ... "QUOTE"
+
+With Melonee Wise
+
+Watch and discuss on 𝕏:
+ADD X POST URL TO CONFIG
+
+
+Watch on Youtube:
+https://youtu.be/-u-vtXm3rTI
+
+Or listen on your favorite podcasting app.
+https://podcasters.spotify.com/pod/show/audrow1/episodes/Will-Humanoid-Robots-Take-Your-Job--Challenges--Opportunities--and-Timeline-e2crh40
+
+#Robotics #TechStartups #Innovation #TechTrends #OutdoorRobotics #AI #MachineLearning #Entrepreneur #AudrowNashPodcast #Interview #Robot
 ```
