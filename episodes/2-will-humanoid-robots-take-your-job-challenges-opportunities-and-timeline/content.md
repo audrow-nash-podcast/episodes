@@ -113,8 +113,6 @@ OUTLINE
 First Tweet:
 
 ```
-HOOK
-
 Will Humanoid Robots Take Your Job? Challenges, Opportunities, and Timeline
 
 With @meloneewise from @agilityrobotics.
@@ -212,7 +210,7 @@ https://podcasters.spotify.com/pod/show/audrow1/episodes/Will-Humanoid-Robots-Ta
 ```
 🔊 ... "QUOTE"
 
-With Melonee Wise
+With Melonee Wise from Agility Robotics.
 
 Watch and discuss on 𝕏:
 https://twitter.com/audrow/status/1732409596327665866
@@ -224,4 +222,9 @@ Or listen on your favorite podcasting app.
 https://podcasters.spotify.com/pod/show/audrow1/episodes/Will-Humanoid-Robots-Take-Your-Job--Challenges--Opportunities--and-Timeline-e2crh40
 
 #Robotics #TechStartups #Innovation #TechTrends #OutdoorRobotics #AI #MachineLearning #Entrepreneur #AudrowNashPodcast #Interview #Robot
+```
+
+X with block:
+```
+With @meloneewise from @agilityrobotics
 ```
