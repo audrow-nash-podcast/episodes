@@ -189,7 +189,11 @@ https://twitter.com/audrow/status/1732409596327665866
 ```text
 🚨 New episode 🚨
 
-Will Humanoid Robots Take Your Job? Challenges, Opportunities, and Timeline
+Will humanoid robots and AI take your job?
+
+It's a question I've been hearing a lot. So, to get some perspective, I talked with Agility Robotics' CTO, Melonee Wise.
+
+You'll like this interview if you want to understand the bleeding edge of robotics and AI and where we'll first see humanoid robots.
 
 Interview with Melonee Wise from Agility Robotics.
 
