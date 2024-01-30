@@ -190,16 +190,13 @@ With Stefan Seltz-Axmacher and Ilia Baranov from Polymath Robotics.
 Interview with Stefan Seltz-Axmacher and Ilia Baranov from Polymath Robotics.
 
 Watch and discuss on 𝕏:
-ADD X POST URL TO CONFIG
-
+https://twitter.com/audrow/status/1752323480433873113
 
 Watch on YouTube:
-ADD YOUTUBE URL TO CONFIG
-
+https://www.youtube.com/watch?v=Cw63-WeFFSs
 
 Or listen on your favorite podcasting app.
-ADD SPOTIFY_FOR_PODCASTERS URL TO CONFIG
-
+https://podcasters.spotify.com/pod/show/audrow1/episodes/Easy-Autonomous-Navigation-for-Industrial-Vehicles-Because-People-Keep-Asking-for-It-e2f47ff
 ```
 
 ## Bulk clips
@@ -210,16 +207,13 @@ ADD SPOTIFY_FOR_PODCASTERS URL TO CONFIG
 With Stefan Seltz-Axmacher and Ilia Baranov from Polymath Robotics.
 
 Watch and discuss on 𝕏:
-ADD X POST URL TO CONFIG
-
+https://twitter.com/audrow/status/1752323480433873113
 
 Watch on YouTube:
-ADD YOUTUBE URL TO CONFIG
-
+https://www.youtube.com/watch?v=Cw63-WeFFSs
 
 Or listen on your favorite podcasting app.
-ADD SPOTIFY_FOR_PODCASTERS URL TO CONFIG
-
+https://podcasters.spotify.com/pod/show/audrow1/episodes/Easy-Autonomous-Navigation-for-Industrial-Vehicles-Because-People-Keep-Asking-for-It-e2f47ff
 
 #Robotics #TechStartups #Innovation #TechTrends #OutdoorRobotics #AI #MachineLearning #Entrepreneur #AudrowNashPodcast #Interview #Robot
 ```
@@ -229,6 +223,5 @@ X with block:
 With Stefan Seltz-Axmacher and Ilia Baranov from @PolymathRobots
 
 You can find the full episode here:
-ADD X POST URL TO CONFIG
-
+https://twitter.com/audrow/status/1752323480433873113
 ```
