@@ -9,12 +9,12 @@
 00:39:15 - Approaching the problem from another side than most robotics startups
 00:42:57 - Ambitions for Polymath Robotics
 00:47:58 - Running a different kind of business with fewer hats
-00:50:22 - Stefan's bankrun t-shirt campaign
+00:50:22 - Stefan's bank run t-shirt campaign
 00:54:30 - How Polymath plans to grow
 00:57:14 - How Polymath uses machine learning
 01:01:30 - Big and expensive vehicles are easier to automate?
 01:07:45 - Thoughts on AI and Machine Learning
-01:15:40 - Making safety certified systems
+01:15:40 - Making safety-certified systems
 01:27:12 - Live demo!
 01:31:52 - Web tools and robotics
 01:38:57 - Automate It podcast

@@ -40,7 +40,7 @@ Easy Autonomous Navigation for Industrial Vehicles: Because People Keep Asking f
 Content:
 
 ```html
-"Can I pay you to automate this?"<br/><br/>Stefan Seltz-Axmacher kept getting asked the same question about automating industrial vehicles, so he co-founded Polymath Robotics.<br/><br/>You'll like this interview if you're interested in the challenges and opportunities for mobile robots in industrial spaces.<br/><br/>With Stefan Seltz-Axmacher and Ilia Baranov from Polymath Robotics.<br/><br/>EPISODE LINKS<br/>- Full transcript: <a href="https://audrow-nash-podcast.github.io/transcripts/3-easy-autonomous-navigation-for-industrial-vehicles-because-people-keep-asking-for-it.html">https://audrow-nash-podcast.github.io/transcripts/3-easy-autonomous-navigation-for-industrial-vehicles-because-people-keep-asking-for-it.html</a><br/>- Polymath Robotics&#x27; website: <a href="https://www.polymathrobotics.com">https://www.polymathrobotics.com</a><br/>- Polymath Robotics&#x27; LinkedIn: <a href="https://www.linkedin.com/company/polymath-robotics/">https://www.linkedin.com/company/polymath-robotics/</a><br/>- Polymath Robotics&#x27; 𝕏: <a href="https://twitter.com/PolymathRobots">https://twitter.com/PolymathRobots</a><br/>- Polymath Robotics&#x27; Github: <a href="https://github.com/polymathrobotics">https://github.com/polymathrobotics</a><br/>- Stefan Seltz-Axmacher LinkedIn: <a href="https://www.linkedin.com/in/stefanseltzaxmacher/">https://www.linkedin.com/in/stefanseltzaxmacher/</a><br/>- Ilia Baranov&#x27;s LinkedIn: <a href="https://www.linkedin.com/in/iliabaranov/">https://www.linkedin.com/in/iliabaranov/</a><br/>- Info on the Automate It! podcast: <a href="https://www.polymathrobotics.com/blog/podcast-launch">https://www.polymathrobotics.com/blog/podcast-launch</a><br/><br/>PODCAST LINKS<br/>- Watch and discuss on 𝕏: <a href="https://www.x.com/audrow">https://www.x.com/audrow</a><br/>- Watch or listen on Spotify: <a href="https://open.spotify.com/show/74jWpWiLwsasY2QHtDcl8I">https://open.spotify.com/show/74jWpWiLwsasY2QHtDcl8I</a><br/>- Listen on Apple Podcasts: <a href="https://podcasts.apple.com/us/podcast/audrow-nash-podcast/id1716486786">https://podcasts.apple.com/us/podcast/audrow-nash-podcast/id1716486786</a><br/>- Watch on YouTube: <a href="https://www.youtube.com/@audrow">https://www.youtube.com/@audrow</a><br/>- Main podcast site: <a href="https://podcasters.spotify.com/pod/show/audrow1">https://podcasters.spotify.com/pod/show/audrow1</a><br/>- RSS Feed: <a href="https://anchor.fm/s/e2666f60/podcast/rss">https://anchor.fm/s/e2666f60/podcast/rss</a><br/>- Full transcripts: <a href="https://audrow-nash-podcast.github.io/transcripts">https://audrow-nash-podcast.github.io/transcripts</a><br/>- Podcast Github: <a href="https://github.com/audrow-nash-podcast">https://github.com/audrow-nash-podcast</a><br/><br/>OUTLINE<br/>(00:00:00) - Start<br/>(00:02:47) - Introducing Stefan, Ilia, and Polymath Robotics<br/>(00:04:33) - Let&#x27;s stop reinventing the wheel<br/>(00:23:11) - Is your code open-source?<br/>(00:26:34) - Why focus on mobile robots?<br/>(00:29:20) - Stefan&#x27;s experience starting Starsky Robotics<br/>(00:33:45) - A good task to automate and not get lit on fire<br/>(00:36:29) - Integrating with sensors<br/>(00:39:15) - Approaching the problem from another side than most robotics startups<br/>(00:42:57) - Ambitions for Polymath Robotics<br/>(00:47:58) - Running a different kind of business with fewer hats<br/>(00:50:22) - Stefan&#x27;s bankrun t-shirt campaign<br/>(00:54:30) - How Polymath plans to grow<br/>(00:57:14) - How Polymath uses machine learning<br/>(01:01:30) - Big and expensive vehicles are easier to automate?<br/>(01:07:45) - Thoughts on AI and Machine Learning<br/>(01:15:40) - Making safety certified systems<br/>(01:27:12) - Live demo!<br/>(01:31:52) - Web tools and robotics<br/>(01:38:57) - Automate It podcast<br/>(01:49:57) - Advice for getting involved in robotics<br/>(01:54:27) - Stefan&#x27;s former startup experience and path to Polymath<br/>(02:00:54) - Thoughts on side projects<br/>(02:04:50) - What Stefan and Ilia are excited about in robotics
+"Can I pay you to automate this?"<br/><br/>Stefan Seltz-Axmacher kept getting asked the same question about automating industrial vehicles, so he co-founded Polymath Robotics.<br/><br/>You'll like this interview if you're interested in the challenges and opportunities for mobile robots in industrial spaces.<br/><br/>With Stefan Seltz-Axmacher and Ilia Baranov from Polymath Robotics.<br/><br/>EPISODE LINKS<br/>- Full transcript: <a href="https://audrow-nash-podcast.github.io/transcripts/3-easy-autonomous-navigation-for-industrial-vehicles-because-people-keep-asking-for-it.html">https://audrow-nash-podcast.github.io/transcripts/3-easy-autonomous-navigation-for-industrial-vehicles-because-people-keep-asking-for-it.html</a><br/>- Polymath Robotics&#x27; website: <a href="https://www.polymathrobotics.com">https://www.polymathrobotics.com</a><br/>- Polymath Robotics&#x27; LinkedIn: <a href="https://www.linkedin.com/company/polymath-robotics/">https://www.linkedin.com/company/polymath-robotics/</a><br/>- Polymath Robotics&#x27; 𝕏: <a href="https://twitter.com/PolymathRobots">https://twitter.com/PolymathRobots</a><br/>- Polymath Robotics&#x27; Github: <a href="https://github.com/polymathrobotics">https://github.com/polymathrobotics</a><br/>- Stefan Seltz-Axmacher LinkedIn: <a href="https://www.linkedin.com/in/stefanseltzaxmacher/">https://www.linkedin.com/in/stefanseltzaxmacher/</a><br/>- Ilia Baranov&#x27;s LinkedIn: <a href="https://www.linkedin.com/in/iliabaranov/">https://www.linkedin.com/in/iliabaranov/</a><br/>- Info on the Automate It! podcast: <a href="https://www.polymathrobotics.com/blog/podcast-launch">https://www.polymathrobotics.com/blog/podcast-launch</a><br/><br/>PODCAST LINKS<br/>- Watch and discuss on 𝕏: <a href="https://www.x.com/audrow">https://www.x.com/audrow</a><br/>- Watch or listen on Spotify: <a href="https://open.spotify.com/show/74jWpWiLwsasY2QHtDcl8I">https://open.spotify.com/show/74jWpWiLwsasY2QHtDcl8I</a><br/>- Listen on Apple Podcasts: <a href="https://podcasts.apple.com/us/podcast/audrow-nash-podcast/id1716486786">https://podcasts.apple.com/us/podcast/audrow-nash-podcast/id1716486786</a><br/>- Watch on YouTube: <a href="https://www.youtube.com/@audrow">https://www.youtube.com/@audrow</a><br/>- Main podcast site: <a href="https://podcasters.spotify.com/pod/show/audrow1">https://podcasters.spotify.com/pod/show/audrow1</a><br/>- RSS Feed: <a href="https://anchor.fm/s/e2666f60/podcast/rss">https://anchor.fm/s/e2666f60/podcast/rss</a><br/>- Full transcripts: <a href="https://audrow-nash-podcast.github.io/transcripts">https://audrow-nash-podcast.github.io/transcripts</a><br/>- Podcast Github: <a href="https://github.com/audrow-nash-podcast">https://github.com/audrow-nash-podcast</a><br/><br/>OUTLINE<br/>(00:00:00) - Start<br/>(00:02:47) - Introducing Stefan, Ilia, and Polymath Robotics<br/>(00:04:33) - Let&#x27;s stop reinventing the wheel<br/>(00:23:11) - Is your code open-source?<br/>(00:26:34) - Why focus on mobile robots?<br/>(00:29:20) - Stefan&#x27;s experience starting Starsky Robotics<br/>(00:33:45) - A good task to automate and not get lit on fire<br/>(00:36:29) - Integrating with sensors<br/>(00:39:15) - Approaching the problem from another side than most robotics startups<br/>(00:42:57) - Ambitions for Polymath Robotics<br/>(00:47:58) - Running a different kind of business with fewer hats<br/>(00:50:22) - Stefan&#x27;s bank run t-shirt campaign<br/>(00:54:30) - How Polymath plans to grow<br/>(00:57:14) - How Polymath uses machine learning<br/>(01:01:30) - Big and expensive vehicles are easier to automate?<br/>(01:07:45) - Thoughts on AI and Machine Learning<br/>(01:15:40) - Making safety-certified systems<br/>(01:27:12) - Live demo!<br/>(01:31:52) - Web tools and robotics<br/>(01:38:57) - Automate It podcast<br/>(01:49:57) - Advice for getting involved in robotics<br/>(01:54:27) - Stefan&#x27;s former startup experience and path to Polymath<br/>(02:00:54) - Thoughts on side projects<br/>(02:04:50) - What Stefan and Ilia are excited about in robotics
 ```
 
 ### YouTube
@@ -96,12 +96,12 @@ OUTLINE
 - 00:39:15 - Approaching the problem from another side than most robotics startups
 - 00:42:57 - Ambitions for Polymath Robotics
 - 00:47:58 - Running a different kind of business with fewer hats
-- 00:50:22 - Stefan's bankrun t-shirt campaign
+- 00:50:22 - Stefan's bank run t-shirt campaign
 - 00:54:30 - How Polymath plans to grow
 - 00:57:14 - How Polymath uses machine learning
 - 01:01:30 - Big and expensive vehicles are easier to automate?
 - 01:07:45 - Thoughts on AI and Machine Learning
-- 01:15:40 - Making safety certified systems
+- 01:15:40 - Making safety-certified systems
 - 01:27:12 - Live demo!
 - 01:31:52 - Web tools and robotics
 - 01:38:57 - Automate It podcast
@@ -132,12 +132,12 @@ Time codes 👇
 00:39:15 - Approaching the problem from another side than most robotics startups
 00:42:57 - Ambitions for Polymath Robotics
 00:47:58 - Running a different kind of business with fewer hats
-00:50:22 - Stefan's bankrun t-shirt campaign
+00:50:22 - Stefan's bank run t-shirt campaign
 00:54:30 - How Polymath plans to grow
 00:57:14 - How Polymath uses machine learning
 01:01:30 - Big and expensive vehicles are easier to automate?
 01:07:45 - Thoughts on AI and Machine Learning
-01:15:40 - Making safety certified systems
+01:15:40 - Making safety-certified systems
 01:27:12 - Live demo!
 01:31:52 - Web tools and robotics
 01:38:57 - Automate It podcast
@@ -190,7 +190,7 @@ With Stefan Seltz-Axmacher and Ilia Baranov from Polymath Robotics.
 Interview with Stefan Seltz-Axmacher and Ilia Baranov from Polymath Robotics.
 
 Watch and discuss on 𝕏:
-https://twitter.com/audrow/status/1752323480433873113
+https://twitter.com/audrow/status/1752333702422568967
 
 Watch on YouTube:
 https://www.youtube.com/watch?v=Cw63-WeFFSs
@@ -207,7 +207,7 @@ https://podcasters.spotify.com/pod/show/audrow1/episodes/Easy-Autonomous-Navigat
 With Stefan Seltz-Axmacher and Ilia Baranov from Polymath Robotics.
 
 Watch and discuss on 𝕏:
-https://twitter.com/audrow/status/1752323480433873113
+https://twitter.com/audrow/status/1752333702422568967
 
 Watch on YouTube:
 https://www.youtube.com/watch?v=Cw63-WeFFSs
@@ -223,5 +223,5 @@ X with block:
 With Stefan Seltz-Axmacher and Ilia Baranov from @PolymathRobots
 
 You can find the full episode here:
-https://twitter.com/audrow/status/1752323480433873113
+https://twitter.com/audrow/status/1752333702422568967
 ```
