@@ -1,24 +1,24 @@
-00:00:00 - Start
-00:02:47 - Introducing Stefan, Ilia, and Polymath Robotics
-00:04:33 - Let's stop reinventing the wheel
-00:23:11 - Is your code open-source?
-00:26:34 - Why focus on mobile robots?
-00:29:20 - Stefan's experience starting Starsky Robotics
-00:33:45 - A good task to automate and not get lit on fire
-00:36:29 - Integrating with sensors
-00:39:15 - Approaching the problem from another side than most robotics startups
-00:42:57 - Ambitions for Polymath Robotics
-00:47:58 - Running a different kind of business with fewer hats
-00:50:22 - Stefan's bank run t-shirt campaign
-00:54:30 - How Polymath plans to grow
-00:57:14 - How Polymath uses machine learning
-01:01:30 - Big and expensive vehicles are easier to automate?
-01:07:45 - Thoughts on AI and Machine Learning
-01:15:40 - Making safety-certified systems
-01:27:12 - Live demo!
-01:31:52 - Web tools and robotics
-01:38:57 - Automate It podcast
-01:49:57 - Advice for getting involved in robotics
-01:54:27 - Stefan's former startup experience and path to Polymath
-02:00:54 - Thoughts on side projects
-02:04:50 - What Stefan and Ilia are excited about in robotics
+00:00:00 Start
+00:02:47 Introducing Stefan, Ilia, and Polymath Robotics
+00:04:33 Let's stop reinventing the wheel
+00:23:11 Is your code open-source?
+00:26:34 Why focus on mobile robots?
+00:29:20 Stefan's experience starting Starsky Robotics
+00:33:45 A good task to automate and not get lit on fire
+00:36:29 Integrating with sensors
+00:39:15 Approaching the problem from another side than most robotics startups
+00:42:57 Ambitions for Polymath Robotics
+00:47:58 Running a different kind of business with fewer hats
+00:50:22 Stefan's bank run t-shirt campaign
+00:54:30 How Polymath plans to grow
+00:57:14 How Polymath uses machine learning
+01:01:30 Big and expensive vehicles are easier to automate?
+01:07:45 Thoughts on AI and Machine Learning
+01:15:40 Making safety-certified systems
+01:27:12 Live demo!
+01:31:52 Web tools and robotics
+01:38:57 Automate It podcast
+01:49:57 Advice for getting involved in robotics
+01:54:27 Stefan's former startup experience and path to Polymath
+02:00:54 Thoughts on side projects
+02:04:50 What Stefan and Ilia are excited about in robotics
