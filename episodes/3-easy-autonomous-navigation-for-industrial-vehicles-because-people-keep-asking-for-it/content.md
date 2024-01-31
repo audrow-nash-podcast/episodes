@@ -8,6 +8,7 @@
 - [X](#x)
 - [LinkedIn](#linkedin)
 - [Bulk clips](#bulk-clips)
+- [Links for sharing](#links-for-sharing)
 
 ### General
 
@@ -232,4 +233,14 @@ With Stefan Seltz-Axmacher and Ilia Baranov from @PolymathRobots
 
 You can find the full episode here:
 https://twitter.com/audrow/status/1752333702422568967
+```
+
+### Links for sharing
+
+```
+X: https://twitter.com/audrow/status/1752333702422568967
+
+YouTube: https://www.youtube.com/watch?v=Cw63-WeFFSs
+
+Spotify: https://podcasters.spotify.com/pod/show/audrow1/episodes/Easy-Autonomous-Navigation-for-Industrial-Vehicles-Because-People-Keep-Asking-for-It-e2f47ff
 ```
