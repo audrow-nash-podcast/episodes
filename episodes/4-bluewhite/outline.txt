@@ -1,0 +1,21 @@
+00:00 Episode Intro
+01:09 Introducing Ben Alfi and Bluewhite Robotics
+03:53 Outfitting a tractor with Bluewhite's tech
+08:52 What types of jobs are they automating?
+11:12 How do you do localization? What sensors do you use?
+18:41 Adding sensors to the tractor's tools + levels of support
+23:36 Being a full solution for agriculture companies
+25:14 Sending data to the cloud
+31:43 Configuring their robot's behavior + onboarding
+34:54 Working with farm equipment dealerships
+38:01 Spiral development
+40:32 Scaling their operation
+44:46 How large is the tractor market?
+48:14 Labor shortages and people not wanting to be farmers
+56:43 Future of unmanned tractors
+01:07:14 Data as a Service + Fellowship
+01:13:21 Blending into the agruculture culture
+01:17:58 Making systems safe
+01:21:48 Recent Series C investment round
+01:23:48 Working with the community
+01:29:26 Episode outro
