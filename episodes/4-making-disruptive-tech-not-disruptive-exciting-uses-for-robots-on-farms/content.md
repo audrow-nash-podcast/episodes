@@ -191,7 +191,7 @@ Watch on YouTube:
 https://youtu.be/wPippdgOHSw
 
 Or listen on your favorite podcasting app.
-https://podcasters.spotify.com/pod/show/audrow1/episodes/Making-Disruptive-Tech-Not-Disruptive-Exciting-Uses-for-Robots-on-Farms-e2fpqqq
+https://podcasters.spotify.com/pod/show/audrow1/episodes/Making-Disruptive-Tech-Not-Disruptive-Exciting-Uses-for-Robots-on-Farms-e2fqo1p
 ```
 
 ## Bulk clips
@@ -208,7 +208,7 @@ Watch on YouTube:
 https://youtu.be/wPippdgOHSw
 
 Or listen on your favorite podcasting app.
-https://podcasters.spotify.com/pod/show/audrow1/episodes/Making-Disruptive-Tech-Not-Disruptive-Exciting-Uses-for-Robots-on-Farms-e2fpqqq
+https://podcasters.spotify.com/pod/show/audrow1/episodes/Making-Disruptive-Tech-Not-Disruptive-Exciting-Uses-for-Robots-on-Farms-e2fqo1p
 
 #Robotics #TechStartups #Innovation #TechTrends #OutdoorRobotics #AI #MachineLearning #Entrepreneur #AudrowNashPodcast #Interview #Robot
 ```
@@ -228,5 +228,5 @@ X: https://twitter.com/audrow/status/1758129337180565766
 
 YouTube: https://youtu.be/wPippdgOHSw
 
-Spotify: https://podcasters.spotify.com/pod/show/audrow1/episodes/Making-Disruptive-Tech-Not-Disruptive-Exciting-Uses-for-Robots-on-Farms-e2fpqqq
+Spotify: https://podcasters.spotify.com/pod/show/audrow1/episodes/Making-Disruptive-Tech-Not-Disruptive-Exciting-Uses-for-Robots-on-Farms-e2fqo1p
 ```
