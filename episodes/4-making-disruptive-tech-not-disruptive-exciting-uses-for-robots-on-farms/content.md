@@ -185,16 +185,13 @@ You'll enjoy this interview if you're interested in robots in agriculture or the
 With Ben Alfi from Bluewhite Robotics. from Bluewhite Robotics.
 
 Watch and discuss on 𝕏:
-ADD X POST URL TO CONFIG
-
+https://twitter.com/audrow/status/1758129337180565766
 
 Watch on YouTube:
-ADD YOUTUBE URL TO CONFIG
-
+https://youtu.be/wPippdgOHSw
 
 Or listen on your favorite podcasting app.
-ADD SPOTIFY_FOR_PODCASTERS URL TO CONFIG
-
+https://podcasters.spotify.com/pod/show/audrow1/episodes/Making-Disruptive-Tech-Not-Disruptive-Exciting-Uses-for-Robots-on-Farms-e2fpqqq
 ```
 
 ## Bulk clips
@@ -205,16 +202,13 @@ ADD SPOTIFY_FOR_PODCASTERS URL TO CONFIG
 With Ben Alfi from Bluewhite Robotics.
 
 Watch and discuss on 𝕏:
-ADD X POST URL TO CONFIG
-
+https://twitter.com/audrow/status/1758129337180565766
 
 Watch on YouTube:
-ADD YOUTUBE URL TO CONFIG
-
+https://youtu.be/wPippdgOHSw
 
 Or listen on your favorite podcasting app.
-ADD SPOTIFY_FOR_PODCASTERS URL TO CONFIG
-
+https://podcasters.spotify.com/pod/show/audrow1/episodes/Making-Disruptive-Tech-Not-Disruptive-Exciting-Uses-for-Robots-on-Farms-e2fpqqq
 
 #Robotics #TechStartups #Innovation #TechTrends #OutdoorRobotics #AI #MachineLearning #Entrepreneur #AudrowNashPodcast #Interview #Robot
 ```
@@ -224,19 +218,15 @@ X with block:
 With Ben Alfi from Bluewhite Robotics
 
 You can find the full episode here:
-ADD X POST URL TO CONFIG
-
+https://twitter.com/audrow/status/1758129337180565766
 ```
 
 ### Links for sharing
 
 ```
-X: ADD X POST URL TO CONFIG
+X: https://twitter.com/audrow/status/1758129337180565766
 
+YouTube: https://youtu.be/wPippdgOHSw
 
-YouTube: ADD YOUTUBE URL TO CONFIG
-
-
-Spotify: ADD SPOTIFY_FOR_PODCASTERS URL TO CONFIG
-
+Spotify: https://podcasters.spotify.com/pod/show/audrow1/episodes/Making-Disruptive-Tech-Not-Disruptive-Exciting-Uses-for-Robots-on-Farms-e2fpqqq
 ```
