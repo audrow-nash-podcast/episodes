@@ -185,16 +185,13 @@ You'll like this interview if you're interested in the macro trends in robotics 
 With Sanjay Aggarwal from F-Prime Capital.
 
 Watch and discuss on 𝕏:
-ADD X POST URL TO CONFIG
-
+https://twitter.com/audrow/status/1769698553998295415
 
 Watch on YouTube:
-ADD YOUTUBE URL TO CONFIG
-
+https://youtu.be/0Zhh_9rkse0
 
 Or listen on your favorite podcasting app.
-ADD SPOTIFY_FOR_PODCASTERS URL TO CONFIG
-
+https://podcasters.spotify.com/pod/show/audrow1/episodes/The-State-of-Robotics-report-in-2024-Early-Days--but-Great-Potential-e2h7bm4
 ```
 
 ## Bulk clips
@@ -205,16 +202,13 @@ ADD SPOTIFY_FOR_PODCASTERS URL TO CONFIG
 With Sanjay Aggarwal from F-Prime Capital.
 
 Watch and discuss on 𝕏:
-ADD X POST URL TO CONFIG
-
+https://twitter.com/audrow/status/1769698553998295415
 
 Watch on YouTube:
-ADD YOUTUBE URL TO CONFIG
-
+https://youtu.be/0Zhh_9rkse0
 
 Or listen on your favorite podcasting app.
-ADD SPOTIFY_FOR_PODCASTERS URL TO CONFIG
-
+https://podcasters.spotify.com/pod/show/audrow1/episodes/The-State-of-Robotics-report-in-2024-Early-Days--but-Great-Potential-e2h7bm4
 
 #Robotics #TechStartups #Innovation #TechTrends #OutdoorRobotics #AI #MachineLearning #Entrepreneur #AudrowNashPodcast #Interview #Robot
 ```
@@ -224,19 +218,15 @@ X with block:
 With @S_aggarwal25 from @FPrimeCapital
 
 You can find the full episode here:
-ADD X POST URL TO CONFIG
-
+https://twitter.com/audrow/status/1769698553998295415
 ```
 
 ### Links for sharing
 
 ```
-X: ADD X POST URL TO CONFIG
+X: https://twitter.com/audrow/status/1769698553998295415
 
+YouTube: https://youtu.be/0Zhh_9rkse0
 
-YouTube: ADD YOUTUBE URL TO CONFIG
-
-
-Spotify: ADD SPOTIFY_FOR_PODCASTERS URL TO CONFIG
-
+Spotify: https://podcasters.spotify.com/pod/show/audrow1/episodes/The-State-of-Robotics-report-in-2024-Early-Days--but-Great-Potential-e2h7bm4
 ```
