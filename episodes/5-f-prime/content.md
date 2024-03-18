@@ -41,7 +41,7 @@ The State of Robotics report in 2024: Early Days, but Great Potential
 Content:
 
 ```html
-What are trends in robotics investment?<br/><br/>You'll like this interview if you're interested in the macro trends in robotics and how investors see the space.<br/><br/>With Sanjay Aggarwal from F-Prime Capital.<br/><br/>EPISODE LINKS<br/>- Full transcript: <a href="https://audrow-nash-podcast.github.io/transcripts/5-the-state-of-robotics-report-in-2024-early-days-but-great-potential.html">https://audrow-nash-podcast.github.io/transcripts/5-the-state-of-robotics-report-in-2024-early-days-but-great-potential.html</a><br/>- 2024 State of Robotics report: <a href="https://fprimecapital.com/robotics">https://fprimecapital.com/robotics</a><br/>- Sanjay Aggarwal&#x27;s LinkedIn: <a href="https://www.linkedin.com/in/sanjaykaggarwal/">https://www.linkedin.com/in/sanjaykaggarwal/</a><br/>- F-Prime Capital&#x27;s LinkedIn: <a href="https://www.linkedin.com/company/f-prime-capital-partners/">https://www.linkedin.com/company/f-prime-capital-partners/</a><br/>- F-Prime Capital&#x27;s Website: <a href="https://fprimecapital.com/">https://fprimecapital.com/</a><br/><br/>PODCAST LINKS<br/>- Watch and discuss on 𝕏: <a href="https://www.x.com/audrow">https://www.x.com/audrow</a><br/>- Watch or listen on Spotify: <a href="https://open.spotify.com/show/74jWpWiLwsasY2QHtDcl8I">https://open.spotify.com/show/74jWpWiLwsasY2QHtDcl8I</a><br/>- Listen on Apple Podcasts: <a href="https://podcasts.apple.com/us/podcast/audrow-nash-podcast/id1716486786">https://podcasts.apple.com/us/podcast/audrow-nash-podcast/id1716486786</a><br/>- Watch on YouTube: <a href="https://www.youtube.com/@audrow">https://www.youtube.com/@audrow</a><br/>- Main podcast site: <a href="https://podcasters.spotify.com/pod/show/audrow1">https://podcasters.spotify.com/pod/show/audrow1</a><br/>- RSS Feed: <a href="https://anchor.fm/s/e2666f60/podcast/rss">https://anchor.fm/s/e2666f60/podcast/rss</a><br/>- Full transcripts: <a href="https://audrow-nash-podcast.github.io/transcripts">https://audrow-nash-podcast.github.io/transcripts</a><br/>- Podcast Github: <a href="https://github.com/audrow-nash-podcast">https://github.com/audrow-nash-podcast</a><br/><br/>OUTLINE<br/>(0:00) - - TODO: ADD OUTLINE ENTRY
+What are trends in robotics investment?<br/><br/>You'll like this interview if you're interested in the macro trends in robotics and how investors see the space.<br/><br/>With Sanjay Aggarwal from F-Prime Capital.<br/><br/>EPISODE LINKS<br/>- Full transcript: <a href="https://audrow-nash-podcast.github.io/transcripts/5-the-state-of-robotics-report-in-2024-early-days-but-great-potential.html">https://audrow-nash-podcast.github.io/transcripts/5-the-state-of-robotics-report-in-2024-early-days-but-great-potential.html</a><br/>- 2024 State of Robotics report: <a href="https://fprimecapital.com/robotics">https://fprimecapital.com/robotics</a><br/>- Sanjay Aggarwal&#x27;s LinkedIn: <a href="https://www.linkedin.com/in/sanjaykaggarwal/">https://www.linkedin.com/in/sanjaykaggarwal/</a><br/>- F-Prime Capital&#x27;s LinkedIn: <a href="https://www.linkedin.com/company/f-prime-capital-partners/">https://www.linkedin.com/company/f-prime-capital-partners/</a><br/>- F-Prime Capital&#x27;s Website: <a href="https://fprimecapital.com/">https://fprimecapital.com/</a><br/><br/>PODCAST LINKS<br/>- Watch and discuss on 𝕏: <a href="https://www.x.com/audrow">https://www.x.com/audrow</a><br/>- Watch or listen on Spotify: <a href="https://open.spotify.com/show/74jWpWiLwsasY2QHtDcl8I">https://open.spotify.com/show/74jWpWiLwsasY2QHtDcl8I</a><br/>- Listen on Apple Podcasts: <a href="https://podcasts.apple.com/us/podcast/audrow-nash-podcast/id1716486786">https://podcasts.apple.com/us/podcast/audrow-nash-podcast/id1716486786</a><br/>- Watch on YouTube: <a href="https://www.youtube.com/@audrow">https://www.youtube.com/@audrow</a><br/>- Main podcast site: <a href="https://podcasters.spotify.com/pod/show/audrow1">https://podcasters.spotify.com/pod/show/audrow1</a><br/>- RSS Feed: <a href="https://anchor.fm/s/e2666f60/podcast/rss">https://anchor.fm/s/e2666f60/podcast/rss</a><br/>- Full transcripts: <a href="https://audrow-nash-podcast.github.io/transcripts">https://audrow-nash-podcast.github.io/transcripts</a><br/>- Podcast Github: <a href="https://github.com/audrow-nash-podcast">https://github.com/audrow-nash-podcast</a><br/><br/>OUTLINE<br/>(0:00) - Episode intro<br/>(2:13) - Introducing Sanjay and F-Prime<br/>(4:40) - Sanjay&#x27;s background<br/>(11:31) - Investing in Autonomous Vehicles then industrial robots<br/>(15:29) - F-Primes portfolio of robotics companies<br/>(26:55) - A new type of robotics founder<br/>(28:21) - Humanoids<br/>(35:04) - F-Prime&#x27;s State of Robotics report<br/>(39:29) - Macro forces for declining investment cash<br/>(46:32) - Why are companies not IPO&#x27;ing lately?<br/>(48:51) - High interest rates and how that effects the VC business model<br/>(55:02) - Challenges in raising B &amp; C investment rounds<br/>(1:04:31) - Why we&#x27;re in the early days in robotics<br/>(1:09:23) - Will labor shortages affect robotics investments?<br/>(1:12:00) - How reliable should systems be? + Human-in-the-loop<br/>(1:17:20) - Common pitfalls to avoid for your robotics company<br/>(1:20:27) - How to make your company VERY attractive to investors<br/>(1:23:36) - Biggest challenges in robotics<br/>(1:25:44) - Opportunities for new robotics companies<br/>(1:27:53) - How would you start a new robotics company?<br/>(1:32:12) - How to pick a good investor for your series A?<br/>(1:34:39) - Trends in the robotics industry<br/>(1:40:28) - Future of robotics
 ```
 
 ### YouTube
@@ -81,7 +81,29 @@ PODCAST LINKS
 - Podcast Github: https://github.com/audrow-nash-podcast
 
 OUTLINE
-0:00 - TODO: ADD OUTLINE ENTRY
+0:00 Episode intro
+2:13 Introducing Sanjay and F-Prime
+4:40 Sanjay's background
+11:31 Investing in Autonomous Vehicles then industrial robots
+15:29 F-Primes portfolio of robotics companies
+26:55 A new type of robotics founder
+28:21 Humanoids
+35:04 F-Prime's State of Robotics report
+39:29 Macro forces for declining investment cash
+46:32 Why are companies not IPO'ing lately?
+48:51 High interest rates and how that effects the VC business model
+55:02 Challenges in raising B & C investment rounds
+1:04:31 Why we're in the early days in robotics
+1:09:23 Will labor shortages affect robotics investments?
+1:12:00 How reliable should systems be? + Human-in-the-loop
+1:17:20 Common pitfalls to avoid for your robotics company
+1:20:27 How to make your company VERY attractive to investors
+1:23:36 Biggest challenges in robotics
+1:25:44 Opportunities for new robotics companies
+1:27:53 How would you start a new robotics company?
+1:32:12 How to pick a good investor for your series A?
+1:34:39 Trends in the robotics industry
+1:40:28 Future of robotics
 ```
 
 ### X
@@ -100,7 +122,29 @@ You'll like this interview if you're interested in the macro trends in robotics 
 With @S_aggarwal25 from @FPrimeCapital.
 
 Time codes 👇
-0:00 - TODO: ADD OUTLINE ENTRY
+0:00 Episode intro
+2:13 Introducing Sanjay and F-Prime
+4:40 Sanjay's background
+11:31 Investing in Autonomous Vehicles then industrial robots
+15:29 F-Primes portfolio of robotics companies
+26:55 A new type of robotics founder
+28:21 Humanoids
+35:04 F-Prime's State of Robotics report
+39:29 Macro forces for declining investment cash
+46:32 Why are companies not IPO'ing lately?
+48:51 High interest rates and how that effects the VC business model
+55:02 Challenges in raising B & C investment rounds
+1:04:31 Why we're in the early days in robotics
+1:09:23 Will labor shortages affect robotics investments?
+1:12:00 How reliable should systems be? + Human-in-the-loop
+1:17:20 Common pitfalls to avoid for your robotics company
+1:20:27 How to make your company VERY attractive to investors
+1:23:36 Biggest challenges in robotics
+1:25:44 Opportunities for new robotics companies
+1:27:53 How would you start a new robotics company?
+1:32:12 How to pick a good investor for your series A?
+1:34:39 Trends in the robotics industry
+1:40:28 Future of robotics
 ```
 
 Second tweet with details:
