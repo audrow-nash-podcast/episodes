@@ -203,8 +203,7 @@ You'll like this interview if you're interested in the open source robotics ecos
 With Geoff Biggs and Tully Foote from Open Robotics.
 
 Watch and discuss on 𝕏:
-ADD X POST URL TO CONFIG
-
+https://twitter.com/audrow/status/1770078221926552062
 
 Watch on YouTube:
 https://youtu.be/Zwcb1mjSDWQ
@@ -221,8 +220,7 @@ https://podcasters.spotify.com/pod/show/audrow1/episodes/OSRA-Pioneering-a-Susta
 With Geoff Biggs and Tully Foote from Open Robotics.
 
 Watch and discuss on 𝕏:
-ADD X POST URL TO CONFIG
-
+https://twitter.com/audrow/status/1770078221926552062
 
 Watch on YouTube:
 https://youtu.be/Zwcb1mjSDWQ
@@ -238,15 +236,13 @@ X with block:
 With Geoff Biggs and Tully Foote from @OpenRoboticsOrg
 
 You can find the full episode here:
-ADD X POST URL TO CONFIG
-
+https://twitter.com/audrow/status/1770078221926552062
 ```
 
 ### Links for sharing
 
 ```
-X: ADD X POST URL TO CONFIG
-
+X: https://twitter.com/audrow/status/1770078221926552062
 
 YouTube: https://youtu.be/Zwcb1mjSDWQ
 
