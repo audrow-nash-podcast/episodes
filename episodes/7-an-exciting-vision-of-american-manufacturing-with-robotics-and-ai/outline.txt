@@ -1,6 +1,6 @@
 0:00 Start
 00:29 Episode intro
-01:51 Introducing Edward and Macna Labs
+01:51 Introducing Edward and Machina Labs
 07:33 AI in manufacturing
 15:19 Using data for better models than physics-based models
 18:51 Capturing data + modeling

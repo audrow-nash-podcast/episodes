@@ -41,7 +41,7 @@ An Exciting Vision of American Manufacturing with Robotics and AI
 Content:
 
 ```html
-How do we bring manufacturing back to the United States? What role do robotics and AI play in this vision?<br/><br/>You'll like this interview if you're interested in the future of manufacturing in the United States and how robotics and AI are shaping it.<br/><br/>With Edward Mehr from Machina Labs.<br/><br/>EPISODE LINKS<br/>- Full transcript: <a href="https://audrow-nash-podcast.github.io/transcripts/7-an-exciting-vision-of-american-manufacturing-with-robotics-and-ai.html">https://audrow-nash-podcast.github.io/transcripts/7-an-exciting-vision-of-american-manufacturing-with-robotics-and-ai.html</a><br/>- Machina Lab&#x27;s Website: <a href="https://machinalabs.ai/">https://machinalabs.ai/</a><br/>- Machina Lab&#x27;s LinkedIn: <a href="https://www.linkedin.com/company/machina-labs/">https://www.linkedin.com/company/machina-labs/</a><br/>- Edward Mehr&#x27;s LinkedIn: <a href="https://www.linkedin.com/in/edward-mehr/">https://www.linkedin.com/in/edward-mehr/</a><br/><br/>PODCAST LINKS<br/>- Watch and discuss on 𝕏: <a href="https://www.x.com/audrow">https://www.x.com/audrow</a><br/>- Watch or listen on Spotify: <a href="https://open.spotify.com/show/74jWpWiLwsasY2QHtDcl8I">https://open.spotify.com/show/74jWpWiLwsasY2QHtDcl8I</a><br/>- Listen on Apple Podcasts: <a href="https://podcasts.apple.com/us/podcast/audrow-nash-podcast/id1716486786">https://podcasts.apple.com/us/podcast/audrow-nash-podcast/id1716486786</a><br/>- Watch on YouTube: <a href="https://www.youtube.com/@audrow">https://www.youtube.com/@audrow</a><br/>- Main podcast site: <a href="https://podcasters.spotify.com/pod/show/audrow1">https://podcasters.spotify.com/pod/show/audrow1</a><br/>- RSS Feed: <a href="https://anchor.fm/s/e2666f60/podcast/rss">https://anchor.fm/s/e2666f60/podcast/rss</a><br/>- Full transcripts: <a href="https://audrow-nash-podcast.github.io/transcripts">https://audrow-nash-podcast.github.io/transcripts</a><br/>- Podcast Github: <a href="https://github.com/audrow-nash-podcast">https://github.com/audrow-nash-podcast</a><br/><br/>OUTLINE<br/>(0:00) - Start<br/>(0:29) - Episode intro<br/>(1:51) - Introducing Edward and Macna Labs<br/>(7:33) - AI in manufacturing<br/>(15:19) - Using data for better models than physics-based models<br/>(18:51) - Capturing data + modeling<br/>(34:45) - About Machina Labs<br/>(39:15) - Machina Lab&#x27;s funding<br/>(45:11) - Being in LA<br/>(47:16) - Why make a company that is 10x better than alternatives<br/>(58:43) - What if you weren&#x27;t venture funded?<br/>(1:02:53) - Or growing quickly<br/>(1:10:26) - Humanoids: challenges + Elon Musk<br/>(1:20:54) - AI trends: transformers + hallucinations<br/>(1:35:32) - Thoughts on manufacturing<br/>(1:42:15) - Advice to get involved in manufacturing
+How do we bring manufacturing back to the United States? What role do robotics and AI play in this vision?<br/><br/>You'll like this interview if you're interested in the future of manufacturing in the United States and how robotics and AI are shaping it.<br/><br/>With Edward Mehr from Machina Labs.<br/><br/>EPISODE LINKS<br/>- Full transcript: <a href="https://audrow-nash-podcast.github.io/transcripts/7-an-exciting-vision-of-american-manufacturing-with-robotics-and-ai.html">https://audrow-nash-podcast.github.io/transcripts/7-an-exciting-vision-of-american-manufacturing-with-robotics-and-ai.html</a><br/>- Machina Lab&#x27;s Website: <a href="https://machinalabs.ai/">https://machinalabs.ai/</a><br/>- Machina Lab&#x27;s LinkedIn: <a href="https://www.linkedin.com/company/machina-labs/">https://www.linkedin.com/company/machina-labs/</a><br/>- Edward Mehr&#x27;s LinkedIn: <a href="https://www.linkedin.com/in/edward-mehr/">https://www.linkedin.com/in/edward-mehr/</a><br/><br/>PODCAST LINKS<br/>- Watch and discuss on 𝕏: <a href="https://www.x.com/audrow">https://www.x.com/audrow</a><br/>- Watch or listen on Spotify: <a href="https://open.spotify.com/show/74jWpWiLwsasY2QHtDcl8I">https://open.spotify.com/show/74jWpWiLwsasY2QHtDcl8I</a><br/>- Listen on Apple Podcasts: <a href="https://podcasts.apple.com/us/podcast/audrow-nash-podcast/id1716486786">https://podcasts.apple.com/us/podcast/audrow-nash-podcast/id1716486786</a><br/>- Watch on YouTube: <a href="https://www.youtube.com/@audrow">https://www.youtube.com/@audrow</a><br/>- Main podcast site: <a href="https://podcasters.spotify.com/pod/show/audrow1">https://podcasters.spotify.com/pod/show/audrow1</a><br/>- RSS Feed: <a href="https://anchor.fm/s/e2666f60/podcast/rss">https://anchor.fm/s/e2666f60/podcast/rss</a><br/>- Full transcripts: <a href="https://audrow-nash-podcast.github.io/transcripts">https://audrow-nash-podcast.github.io/transcripts</a><br/>- Podcast Github: <a href="https://github.com/audrow-nash-podcast">https://github.com/audrow-nash-podcast</a><br/><br/>OUTLINE<br/>(0:00) - Start<br/>(0:29) - Episode intro<br/>(1:51) - Introducing Edward and Machina Labs<br/>(7:33) - AI in manufacturing<br/>(15:19) - Using data for better models than physics-based models<br/>(18:51) - Capturing data + modeling<br/>(34:45) - About Machina Labs<br/>(39:15) - Machina Lab&#x27;s funding<br/>(45:11) - Being in LA<br/>(47:16) - Why make a company that is 10x better than alternatives<br/>(58:43) - What if you weren&#x27;t venture funded?<br/>(1:02:53) - Or growing quickly<br/>(1:10:26) - Humanoids: challenges + Elon Musk<br/>(1:20:54) - AI trends: transformers + hallucinations<br/>(1:35:32) - Thoughts on manufacturing<br/>(1:42:15) - Advice to get involved in manufacturing
 ```
 
 ### YouTube
@@ -82,7 +82,7 @@ PODCAST LINKS
 OUTLINE
 0:00 Start
 0:29 Episode intro
-1:51 Introducing Edward and Macna Labs
+1:51 Introducing Edward and Machina Labs
 7:33 AI in manufacturing
 15:19 Using data for better models than physics-based models
 18:51 Capturing data + modeling
@@ -116,7 +116,7 @@ With @EdwardMehr from @MachinaLabs_.
 Time codes 👇
 0:00 Start
 0:29 Episode intro
-1:51 Introducing Edward and Macna Labs
+1:51 Introducing Edward and Machina Labs
 7:33 AI in manufacturing
 15:19 Using data for better models than physics-based models
 18:51 Capturing data + modeling
@@ -173,12 +173,10 @@ ADD X POST URL TO CONFIG
 
 
 Watch on YouTube:
-ADD YOUTUBE URL TO CONFIG
-
+https://youtu.be/NRRpdJ9a8oU
 
 Or listen on your favorite podcasting app.
-ADD SPOTIFY_FOR_PODCASTERS URL TO CONFIG
-
+https://podcasters.spotify.com/pod/show/audrow1/episodes/An-Exciting-Vision-of-American-Manufacturing-with-Robotics-and-AI-e2if118
 ```
 
 ## Bulk clips
@@ -193,12 +191,10 @@ ADD X POST URL TO CONFIG
 
 
 Watch on YouTube:
-ADD YOUTUBE URL TO CONFIG
-
+https://youtu.be/NRRpdJ9a8oU
 
 Or listen on your favorite podcasting app.
-ADD SPOTIFY_FOR_PODCASTERS URL TO CONFIG
-
+https://podcasters.spotify.com/pod/show/audrow1/episodes/An-Exciting-Vision-of-American-Manufacturing-with-Robotics-and-AI-e2if118
 
 #Robotics #TechStartups #Innovation #TechTrends #OutdoorRobotics #AI #MachineLearning #Entrepreneur #AudrowNashPodcast #Interview #Robot
 ```
@@ -218,9 +214,7 @@ ADD X POST URL TO CONFIG
 X: ADD X POST URL TO CONFIG
 
 
-YouTube: ADD YOUTUBE URL TO CONFIG
+YouTube: https://youtu.be/NRRpdJ9a8oU
 
-
-Spotify: ADD SPOTIFY_FOR_PODCASTERS URL TO CONFIG
-
+Spotify: https://podcasters.spotify.com/pod/show/audrow1/episodes/An-Exciting-Vision-of-American-Manufacturing-with-Robotics-and-AI-e2if118
 ```
