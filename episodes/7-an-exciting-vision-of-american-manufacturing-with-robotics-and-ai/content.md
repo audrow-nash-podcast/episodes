@@ -169,8 +169,7 @@ You'll like this interview if you're interested in the future of manufacturing i
 With Edward Mehr from Machina Labs.
 
 Watch and discuss on 𝕏:
-ADD X POST URL TO CONFIG
-
+https://twitter.com/audrow/status/1780231571036922083
 
 Watch on YouTube:
 https://youtu.be/NRRpdJ9a8oU
@@ -187,8 +186,7 @@ https://podcasters.spotify.com/pod/show/audrow1/episodes/An-Exciting-Vision-of-A
 With Edward Mehr from Machina Labs.
 
 Watch and discuss on 𝕏:
-ADD X POST URL TO CONFIG
-
+https://twitter.com/audrow/status/1780231571036922083
 
 Watch on YouTube:
 https://youtu.be/NRRpdJ9a8oU
@@ -204,15 +202,13 @@ X with block:
 With @EdwardMehr from @MachinaLabs_
 
 You can find the full episode here:
-ADD X POST URL TO CONFIG
-
+https://twitter.com/audrow/status/1780231571036922083
 ```
 
 ### Links for sharing
 
 ```
-X: ADD X POST URL TO CONFIG
-
+X: https://twitter.com/audrow/status/1780231571036922083
 
 YouTube: https://youtu.be/NRRpdJ9a8oU
 
