@@ -8,7 +8,7 @@ links:
 - text: Cuby's Website
   href: https://www.cubytechnologies.com/
 - text: Cuby's LinkedIn
-  href: https://www.company.com/
+  href: https://www.linkedin.com/company/buildwithcuby/
 - text: Oleg's LinkedIn
   href: https://www.linkedin.com/in/olegkondrashov/
 - text: Aleks' LinkedIn
@@ -21,6 +21,6 @@ guests:
 organization:
   name: Cuby
   x_handle: buildwithcuby
-youtube_video_url: null
-x_post_url: null
-spotify_for_podcasters_url: null
+youtube_video_url: https://youtu.be/Rgf9ECU0YdI
+x_post_url: https://x.com/audrow/status/1797991162612981896
+spotify_for_podcasters_url: https://podcasters.spotify.com/pod/show/audrow1/episodes/Can-You-Ship-a-Factory--A-Bold-Vision-to-Make-Homes-More-Affordable-e2kfu7r
