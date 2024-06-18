@@ -1,0 +1,17 @@
+title: Hello, world!
+number: 1
+description: |-
+  Your great episode
+  on multiple lines.
+links:
+- text: Company's LinkedIn
+  href: https://www.company.com/
+guests:
+- name: Foo Bar
+  x_handle: foo
+organization:
+  name: Company
+  x_handle: company
+youtube_video_url: null
+x_post_url: null
+spotify_for_podcasters_url: null

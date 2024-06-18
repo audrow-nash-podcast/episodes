@@ -1,0 +1,19 @@
+0:00 Start
+01:28 Introduction to Adrian Macneil and Foxglove
+01:43 The Genesis of Foxglove
+04:55 Challenges in Robotics Data Logging
+07:20 MCAP: A New Standard for Robotics Logging
+18:35 Data Upload and Ingestion in Robotics
+30:46 Cloud Indexing and Data Management
+35:53 Visualization in Robotics
+39:05 Performance and Platform Considerations
+51:54 Extensibility and Customization
+56:50 The Evolution of Foxglove Visualizer
+58:17 Customizing Visualizations with Plugins and Extensions
+01:00:23 Advanced Visualization Techniques and Extensions
+01:06:57 WebAssembly and Performance Enhancements
+01:08:36 Foxglove's Role in Robotics Simulation
+01:12:30 Challenges and Future Directions in Robotics
+01:18:48 Opportunities in Robotics Tooling
+01:24:55 The Shift from Open Source to Closed Source and Foxglove 2.0
+01:41:59 Actuate Conference: Bringing Robotics Developers Together
