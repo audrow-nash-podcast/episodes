@@ -1,0 +1,16 @@
+0:00 Start
+01:36 Introduction to Rajat and Chef Robotics
+03:03 Early Ventures and the Power of AI
+05:51 Identifying the Market Opportunity
+08:15 Challenges in Food Industry Automation
+13:13 Pivoting to High Mix Manufacturing
+42:33 Bootstrapping AI for Real-World Robotics
+45:23 Expanding to New Markets and Applications
+48:46 Challenges in Food Manipulation
+01:02:06 Leveraging Learning from Demonstration
+01:23:12 Field Replaceable Units and Service Strategy
+01:24:05 Scaling and Global Deployment
+01:25:25 Hardware Upgrades and Modularity
+01:29:45 AI and Robotics Industry Trends
+01:36:58 Challenges in Robotics Production
+01:53:45 Hiring the Best People
